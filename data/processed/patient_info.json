@@ -1,0 +1,108 @@
+{
+  "LT2310KDPQ": {
+    "age": 45,
+    "weight": 117,
+    "gender": "男",
+    "calories": 1800,
+    "medications": [
+      "司美格鲁肽注射液, 0.5 mg, 每周一次",
+      "达格列净, 10 mg, 1次/日",
+      "盐酸二甲双胍缓释片, 0.5 g, 2次/日",
+      "盐酸二甲双胍缓释片, 1 g, 2次/日",
+      "阿卡波糖片, 50 mg, 3次/日",
+      "盐酸吡格列酮, 45 mg, 1次/日"
+    ]
+  },
+  "LT231109MQ": {
+    "age": 63,
+    "weight": 77,
+    "gender": "女",
+    "calories": 1400,
+    "medications": [
+      "盐酸二甲双胍缓释片, 0.5 g, 2次/日",
+      "米格列醇, 50 mg, 3次/日",
+      "脯氨酸恒格列净片, 10 mg, 1次/日",
+      "盐酸吡格列酮片, 30 mg, 1次/日"
+    ]
+  },
+
+  "LT2401P3JN": {
+    "age": 43,
+    "weight": 83,
+    "gender": "男",
+    "calories": 1600,
+    "medications": [
+      "盐酸二甲双胍缓释片, 0.5 g, 2次/日",
+      "米格列醇, 10 mg, 1次/日"
+    ]
+  },
+
+  "LT2401MV1C": {
+    "age": 56,
+    "weight": 72,
+    "gender": "男",
+    "calories": 1800,
+    "medications": [
+      "盐酸二甲双胍缓释片, 0.5 g, 2次/日",
+      "米格列醇, 50 mg, 3次/日",
+      "盐酸二甲双胍缓释片, 1 g, 2次/日"
+    ]
+  },
+
+  "LT2401P3JP": {
+    "age": 62,
+    "weight": 62.5,
+    "gender": "男",
+    "calories": 1800,
+    "medications": [
+      "盐酸二甲双胍缓释片, 0.5 g, 3次/日",
+      "米格列醇, 50 mg, 3次/日"
+    ]
+  },
+
+  "LT2401PQ5K": {
+    "age": 61,
+    "weight": 46,
+    "gender": "女",
+    "calories": 1600,
+    "medications": ["阿卡波糖片, 50 mg, 3次/日"]
+  },
+
+  "LT2401MVLD": {
+    "age": 72,
+    "weight": 99,
+    "gender": "男",
+    "calories": 1600,
+    "medications": [
+      "脯氨酸恒格列净片, 10 mg, 1次/日",
+      "利拉鲁肽, 0.6 mg, 1次/日"
+    ]
+  },
+
+  "LT2401MVLT": {
+    "age": 66,
+    "weight": 51.5,
+    "gender": "女",
+    "calories": 1400,
+    "medications": ["米格列醇, 50 mg, 3次/日", "达格列净, 10 mg, 1次/日"]
+  },
+
+  "LT2401P49L": {
+    "age": 61,
+    "weight": 51.5,
+    "gender": "男",
+    "calories": 1800,
+    "medications": ["阿卡波糖片, 50 mg, 3次/日"]
+  },
+
+  "LT2401PQLY": {
+    "age": 71,
+    "weight": 64.5,
+    "gender": "女",
+    "calories": 1400,
+    "medications": [
+      "盐酸二甲双胍缓释片, 0.5 g, 2次/日",
+      "阿卡波糖片, 50 mg, 3次/日"
+    ]
+  }
+}

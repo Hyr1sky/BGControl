@@ -1,0 +1,12 @@
+{
+  "insulin_dosing": {
+    "file_name": "data.json",
+    "format": "alpaca",
+    "columns": {
+      "instruction": "instruction",
+      "input": "input",
+      "output": "output",
+      "system": "system"
+    }
+  }
+}
